@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<group android:id="@+id/group_main">
+		    <item android:id="@+id/reditem"
+		        android:title="Red"/>
+		    <item android:id="@+id/blueitem"
+		        android:title="Blue"/>
+		    <item android:id="@+id/negtiveitem"
+		        android:title="Negtive"/>
+	</group>
+</menu>
